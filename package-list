@@ -1,0 +1,10 @@
+com.gmail.alexhh.balex
+com.gmail.alexhh.balex.api.command
+com.gmail.alexhh.balex.api.dao
+com.gmail.alexhh.balex.api.entity
+com.gmail.alexhh.balex.api.entity.image
+com.gmail.alexhh.balex.api.entity.image.filter
+com.gmail.alexhh.balex.api.event
+com.gmail.alexhh.balex.core.controllers
+com.gmail.alexhh.balex.core.dao
+com.gmail.alexhh.balex.core.entity
